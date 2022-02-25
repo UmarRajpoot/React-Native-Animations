@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Background Screen 01</td>
+     <td>Background Screen 02</td>
+     <td>Background Screen 03</td>
   </tr>
   <tr>
     <td valign="top"><img src="/Src/PreviewAssets/Background01.jpg"></td>
@@ -15,9 +15,9 @@
  
  <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Card Animation 01</td>
+     <td>Card Animation 02</td>
+     <td>Card Animation 03</td>
   </tr>
   <tr>
     <td valign="top"><img src="/Src/PreviewAssets/cardAnimation01.jpg"></td>
@@ -28,9 +28,9 @@
  
   <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Zara Carosal 01</td>
+     <td>Zara Carosal 02</td>
+     <td>Zara Carosal 03</td>
   </tr>
   <tr>
     <td valign="top"><img src="/Src/PreviewAssets/Zaracarosal01.jpg"></td>
